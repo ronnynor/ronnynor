@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+<h1 align="center">Hola, soy Ronny Nordelo 👋</h1>
 </div>
-<img src="qnecesitas.nat.cu/Ronny/github_profile.png">
+<img src="https://qnecesitas.nat.cu/Ronny/github_profile.png">
 
 Hello, world!🤙. I am a semi-senior programmer with four years of experience🤓. I have studied programming for six years then I have managed to learn to develop some technologies such as Android, both in Kotlin and Java; Frontent web development with React and Backend with PHP; database management with MySQL; among others💻.
 
