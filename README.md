@@ -8,3 +8,12 @@ Hello, world!🤙. I am a semi-senior programmer with four years of experience�
 My dream is in the direction of development teams then I founded QNecesitas, my own company, in October 2021🏢. There, working as CEO, I have participated in more than 15 projects helping me achieve essential skills for team management and modern programming👨‍💼.
 
 About languages, my native language is Spanish but I am fluent in advanced English🌎.
+
+
+
+<p align="center">
+<a href="https://github.com/ronnynor">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ronnynor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ronnynor&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
