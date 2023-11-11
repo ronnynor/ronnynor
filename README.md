@@ -13,7 +13,7 @@ About languages, my native language is Spanish but I am fluent in advanced Engli
 
 <p align="center">
 <a href="https://github.com/ronnynor">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ronnynor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ronnynor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&token=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"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ronnynor&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
