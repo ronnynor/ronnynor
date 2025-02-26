@@ -1,11 +1,9 @@
 <div align="center">
 <h1 align="center">Hi, I am Ronny Nordelo 👋</h1>
 </div>
-<img src="https://qnecesitas.nat.cu/Ronny/github_profile.png">
 
-Hello, world!🤙. I am a semi-senior programmer with four years of experience🤓. I have studied programming for six years then I have managed to learn to develop some technologies such as Android, both in Kotlin and Java; Frontent web development with React and Backend with PHP; database management with MySQL; among others💻.
+👨‍💻 Hello World. I am a Software Engineer and founder of QNecesitas, with over 4 years of experience in mobile app development, specializing in the Android ecosystem. Throughout my career, I've mastered various technologies, including Java, Kotlin, Python, JavaScript, PHP, and more, giving me the versatility to tackle multidisciplinary projects.
 
-My dream is in the direction of development teams then I founded QNecesitas, my own company, in October 2021🏢. There, working as CEO, I have participated in more than 15 projects helping me achieve essential skills for team management and modern programming👨‍💼.
+🚀 I began my software development journey during my first year of university, when I founded my own software development company focused on delivering innovative solutions. Since then, I've contributed to the creation of over 15 mobile applications and several web projects, collaborating with diverse teams and solving complex technical challenges.
 
-About languages, my native language is Spanish but I am fluent in advanced English🌎.
-
+📚 I'm passionate about innovation, continuous learning, and leveraging technology to make a positive impact. For example, I developed a convolutional neural network with 97% accuracy to detect pneumonia in pediatric patients, showcasing how technology can address critical challenges in healthcare. If you're interested in discussing new technologies, sharing ideas, or need support on a project, I'd be happy to connect. Let’s talk!
