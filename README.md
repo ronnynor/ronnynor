@@ -1,8 +1,8 @@
 <div align="center">
-<h1 align="center">Hi, I am Ronny Nordelo 👋</h1>
+<h1 align="center">Hello World, I am Ronny Nordelo 👋</h1>
 </div>
 
-👨‍💻 Hello World. I am a Software Engineer and founder of QNecesitas, with over 4 years of experience in mobile app development, specializing in the Android ecosystem. Throughout my career, I've mastered various technologies, including Java, Kotlin, Python, JavaScript, PHP, and more, giving me the versatility to tackle multidisciplinary projects.
+👨‍💻 I am a Software Engineer and founder of QNecesitas, with over 4 years of experience in mobile app development, specializing in the Android ecosystem. Throughout my career, I've mastered various technologies, including Java, Kotlin, Python, JavaScript, PHP, and more, giving me the versatility to tackle multidisciplinary projects.
 
 🚀 I began my software development journey during my first year of university, when I founded my own software development company focused on delivering innovative solutions. Since then, I've contributed to the creation of over 15 mobile applications and several web projects, collaborating with diverse teams and solving complex technical challenges.
 
