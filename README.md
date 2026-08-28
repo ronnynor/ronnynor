@@ -35,6 +35,6 @@ If you're interested in discussing new technologies, sharing ideas, or need supp
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-ronny-personal.vercel.app/api?username=ronnynor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Ronny's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats-ronny-personal.vercel.app/api?username=ronnynor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide=stars" alt="Ronny's GitHub stats"/>
   <img height="180em" src="https://streak-stats.demolab.com/?user=ronnynor&theme=tokyonight&hide_border=true" alt="Ronny's contribution streak"/>
 </p>
