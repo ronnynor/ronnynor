@@ -2,19 +2,19 @@
 <h1 align="center">Hello World, I am Ronny Nordelo 👋</h1>
 </div>
 
-👨‍💻 I am a Software Engineer with over 4 years of experience in mobile app development, specializing in native and multiplatform mobile technologies.
+I am a Software Engineer with over 4 years of experience in mobile app development, specializing in native and multiplatform mobile technologies.
 
-🛠️ Throughout my career, I've mastered various technologies, including Java, Kotlin, Flutter, Python, JavaScript, PHP, and more, giving me the versatility to tackle multidisciplinary projects.
+Throughout my career, I've mastered various technologies, including Java, Kotlin, Flutter, Python, JavaScript, PHP, and more, giving me the versatility to tackle multidisciplinary projects.
 
-🚀 I began my software development journey during my last year of High School, when I founded my own software development company focused on delivering innovative solutions. Since then, I've contributed to the creation of over 15 mobile applications and several web projects, collaborating with diverse teams and solving complex technical challenges.
+I began my software development journey during my last year of High School, when I founded my own software development company focused on delivering innovative solutions. Since then, I've contributed to the creation of over 15 mobile applications and several web projects, collaborating with diverse teams and solving complex technical challenges.
 
-🏢 After completing my university studies and consolidating my experience through my own company, I was hired by Quasar Software, where I have contributed to numerous projects for international clients across diverse technology stacks. This experience has been my greatest source of professional growth and continuous improvement so far.
+After completing my university studies and consolidating my experience through my own company, I was hired by Quasar Software, where I have contributed to numerous projects for international clients across diverse technology stacks. This experience has been my greatest source of professional growth and continuous improvement so far.
 
-📚 I'm passionate about innovation, continuous learning, and leveraging technology to make a positive impact. One example of this is a convolutional neural network I developed that achieved 97% accuracy in detecting pneumonia in pediatric patients, demonstrating how technology can address critical challenges in healthcare.
+I'm passionate about innovation, continuous learning, and leveraging technology to make a positive impact. One example of this is a convolutional neural network I developed that achieved 97% accuracy in detecting pneumonia in pediatric patients, demonstrating how technology can address critical challenges in healthcare.
 
-💬 If you're interested in discussing new technologies, sharing ideas, or need support on a project, I'd be happy to connect. Let's talk!
+If you're interested in discussing new technologies, sharing ideas, or need support on a project, I'd be happy to connect. Let's talk!
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ronnynor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Ronny's GitHub stats"/>
