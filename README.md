@@ -2,17 +2,14 @@
 <h1 align="center">Hello World, I am Ronny Nordelo 👋</h1>
 </div>
 
-I am a Software Engineer with over 4 years of experience in mobile app development, specializing in native and multiplatform mobile technologies.
+I'm a Mobile Software Engineer with 5+ years of experience building mobile applications, from native Android (Kotlin, Jetpack Compose, Java) to cross-platform with Flutter, often developing the Spring Boot REST APIs behind them as well. I've also worked with Python, JavaScript and PHP across web and data projects, which lets me move comfortably between the frontend, the backend and the problem in between.
 
-Throughout my career, I've mastered various technologies, including Java, Kotlin, Flutter, Python, JavaScript, PHP, and more, giving me the versatility to tackle multidisciplinary projects.
+I started early. In my last year of high school I founded Irquen, a software development company creating custom software for small businesses, and through it I shipped over 15 mobile apps and several web projects while finishing my degree — learning to deal with real clients, real deadlines and real production bugs.
 
-I began my software development journey during my last year of High School, when I founded my own software development company focused on delivering innovative solutions. Since then, I've contributed to the creation of over 15 mobile applications and several web projects, collaborating with diverse teams and solving complex technical challenges.
+Today I work at Quasar Software, a software outsourcing company, where I deliver mobile and backend solutions for international clients. Moving from my own projects to larger codebases, established processes and experienced engineers has been the biggest step forward in my career.
 
-After completing my university studies and consolidating my experience through my own company, I was hired by Quasar Software, where I have contributed to numerous projects for international clients across diverse technology stacks. This experience has been my greatest source of professional growth and continuous improvement so far.
+Outside client work, I like applying technology to problems beyond software itself. As part of my degree thesis, I developed a convolutional neural network that detects 
 
-I'm passionate about innovation, continuous learning, and leveraging technology to make a positive impact. One example of this is a convolutional neural network I developed that achieved 97% accuracy in detecting pneumonia in pediatric patients, demonstrating how technology can address critical challenges in healthcare.
-
-If you're interested in discussing new technologies, sharing ideas, or need support on a project, I'd be happy to connect. Let's talk!
 
 ## Tech Stack
 
